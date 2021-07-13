@@ -1,0 +1,12 @@
+.body_background {
+    background-image: url("https://easttennessean.com/wp-content/uploads/2018/04/art.jpg");
+}
+
+ #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+
